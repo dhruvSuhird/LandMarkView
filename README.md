@@ -2,7 +2,7 @@
 
 LandMarkView is an iOS app built with SwiftUI that showcases famous landmarks around the world. Users can explore locations on a map, view details, and browse images of each landmark.
 
-## Screenshota
+## Screenshots
 
 <p align="center">
   <img src="LandMarkView/ScreenShots/StartingView.png" alt="Map Screen" width="280"/>
