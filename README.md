@@ -4,9 +4,12 @@ LandMarkView is an iOS app built with SwiftUI that showcases famous landmarks ar
 
 ## Screenshota
 
-![Map Screen](LandMarkView/ScreenShots/StartingView.png)
-![Search View](LandMarkView/ScreenShots/SearchView.png)
-![Detail View](LandMarkView/ScreenShots/DetailView.png)
+<p align="center">
+  <img src="LandMarkView/ScreenShots/StartingView.png" alt="Map Screen" width="280"/>
+  <img src="LandMarkView/ScreenShots/SearchView.png" alt="Search View" width="280"/>
+  <img src="LandMarkView/ScreenShots/DetailView.png" alt="Detail View" width="280"/>
+</p>
+
 
 ## Features
 
