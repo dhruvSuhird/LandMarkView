@@ -1,10 +1,3 @@
-//
-//  LocationsViewModel.swift
-//  Maps
-//
-//  Created by Dhruv Suhird on 08/04/24.
-//
-
 import Foundation
 import SwiftUI
 import MapKit
