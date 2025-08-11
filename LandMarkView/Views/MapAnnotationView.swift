@@ -1,10 +1,3 @@
-//
-//  MapAnnotationView.swift
-//  Maps
-//
-//  Created by Dhruv Suhird on 18/04/24.
-//
-
 import SwiftUI
 
 struct MapAnnotationView: View {
