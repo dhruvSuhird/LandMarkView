@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  LandMarkView
-//
-//  Created by Dhruv Suhird on 7/15/25.
-//
-
 import SwiftUI
 
 struct ContentView: View {
