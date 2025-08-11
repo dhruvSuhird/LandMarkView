@@ -1,10 +1,3 @@
-//
-//  LocationListView.swift
-//  Maps
-//
-//  Created by Dhruv Suhird on 11/04/24.
-//
-
 import SwiftUI
 
 struct LocationListView: View {
