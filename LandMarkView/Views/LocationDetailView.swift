@@ -1,10 +1,3 @@
-//
-//  LocationDetailView.swift
-//  Maps
-//
-//  Created by Dhruv Suhird on 20/04/24.
-//
-
 import SwiftUI
 import MapKit
 
